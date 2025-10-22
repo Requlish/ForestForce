@@ -20,12 +20,12 @@ Players must carefully plan their movements and use elemental spells strategical
 ## Play the Game
 
 You can download and play the latest build here:  
-[**Forest Force - Final Build (9 Apr 2024)**](https://github.com/Requlish/Sinkhole/releases/latest)
+[**Forest Force - Final Build (9 Apr 2024)**](https://github.com/Requlish/ForestForce/releases/latest)
 
 ### How to Play
 1. Download the `ForestForce_Windows_v1.0.zip` file from the release page.  
 2. Extract all contents to a folder.  
-3. Run `ForestForce.exe`.  
+3. Run `Forest_Force.exe`.  
 
 > This build is for **portfolio and demonstration purposes only**.  
 > Audio playback is powered by the **FMOD Studio API** (Firelight Technologies Pty Ltd),  
@@ -60,5 +60,7 @@ This project uses the following third-party libraries:
   used for rendering, input, and core engine functionality. The engine is proprietary and distributed under an educational license.
 - **FMOD Studio API** by [Firelight Technologies Pty Ltd](https://www.fmod.com/),  
   used for audio playback and sound management. FMOD is free for non-commercial and educational use.
+- **FreeType** by [The FreeType Project](https://freetype.org),
+  used for text rendering. Licensed under the **FreeType License**.  
 - **Kenney Assets** by [Kenney.nl](https://kenney.nl),  
   used for 2D game art and visual assets. Licensed under **CC0 1.0 Universal (Public Domain)**.
