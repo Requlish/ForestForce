@@ -1,0 +1,58 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.idb
+*.tlog
+*.log
+*.exp
+*.iobj
+*.ipdb
+*.cache
+*.db
+*.dll
+*.lib
+
+# Directories
+Debug/
+Release/
+x64/
+bin/
+build/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.log
+*.temp
+Thumbs.db
+Desktop.ini
+
+# Alpha Engine or external frameworks (do not upload)
+Extern/AlphaEngine/
+
+# Zip and archive files
+*.zip
+*.7z
+*.rar
+
+# Ignore personal configs
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Ignore local test builds or release exports
+/Releases/
